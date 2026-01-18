@@ -10,6 +10,10 @@ export default function LoginPage() {
       <br /><br />
 
       <button>Login</button>
+
+      <br /><br />
+
+      <a href="/">Go to Home</a>
     </div>
   );
 }
